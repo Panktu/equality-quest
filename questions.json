@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Do you think only women should do household chores?",
+    "options": ["Yes", "No", "Sometimes"],
+    "answer": "No"
+  },
+  {
+    "question": "Is it okay if a woman earns more than a man?",
+    "options": ["No", "Yes", "Not Sure"],
+    "answer": "Yes"
+  },
+  {
+    "question": "Do you believe girls are bad at math and science?",
+    "options": ["Yes", "No", "Sometimes"],
+    "answer": "No"
+  },
+  {
+    "question": "Should men cry?",
+    "options": ["No", "Yes", "Depends"],
+    "answer": "Yes"
+  },
+  {
+    "question": "Is it weird if a man becomes a nurse or a primary school teacher?",
+    "options": ["Yes", "No", "Maybe"],
+    "answer": "No"
+  },
+  {
+    "question": "Should toys be divided by gender?",
+    "options": ["Yes", "No", "Sometimes"],
+    "answer": "No"
+  },
+  {
+    "question": "Can a woman be a CEO or politician?",
+    "options": ["No", "Yes", "If trained"],
+    "answer": "Yes"
+  },
+  {
+    "question": "Is gender equality important for a country's development?",
+    "options": ["No", "Yes", "Not Sure"],
+    "answer": "Yes"
+  },
+  {
+    "question": "Do you think fathers can take care of babies equally well?",
+    "options": ["No", "Yes", "Only if trained"],
+    "answer": "Yes"
+  },
+  {
+    "question": "Should career choices be based on gender?",
+    "options": ["Yes", "No", "Sometimes"],
+    "answer": "No"
+  }
+]
